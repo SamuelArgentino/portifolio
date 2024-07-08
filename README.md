@@ -2,6 +2,8 @@
 
 ![Screenshot_35](https://github.com/SamuelArgentino/portifolio/assets/174635851/09c4ee05-093f-49d6-961c-6a2171daa282)
 
+LIVE: https://portifolio-delta-indol.vercel.app/
+
 ## Ferramentas utilizadas:
 
 * HTML
