@@ -1,8 +1,9 @@
 # Portfólio: Olá, Bem vindo ao meu projeto de portfólio.
 
-![Screenshot_35](https://github.com/SamuelArgentino/portifolio/assets/174635851/09c4ee05-093f-49d6-961c-6a2171daa282)
+![image](https://github.com/SamuelArgentino/portifolio/assets/174635851/fb5936cb-a8e8-42e1-97f8-c34c7b76cdde)
 
-LIVE: https://portifolio-delta-indol.vercel.app/
+GitHub Pages: https://samuelargentino.github.io/portifolio/
+Vercel: https://portifolio-delta-indol.vercel.app/
 
 ## Ferramentas utilizadas:
 
